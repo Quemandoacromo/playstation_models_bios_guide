@@ -144,15 +144,15 @@
   - **SCPH-9003** :earth_asia: - v41, 1997-12-16 | *ps-41a* | CEX-3000-1001-1002 by K.S. | 502224b6 , 1e68c231d0896b7eadcad1d7d8e76129
 
 * **NINTH GENERATION** (aka PSone).
-  - **SCPH-100** :jp: - v43, 2000-03-11 redump.org: psone-43j | CEX-3000-1001-1002 by K.S. | f2af798b , 8abc1b549a4a80954addc48ef02c4521
-  - **SCPH-101** :us: - v44, 2000-03-24 redump.org: psone-44a | CEX-3000-1001-1002 by K.S. | 6a0e22a0 , 9a09ab7e49b422c007e6d54d7c49b965
-  - **SCPH-102** :uk: - v44, 2000-03-24 redump.org: psone-44e | CEX-3000-1001-1002 by K.S. | 0bad7ea9 , b10f5e0e3d9eb60e5159690680b1e774
-  - *2nd revision* of **SCPH-101** :us: - v45, 2000-05-25 redump.org: psone-45a | CEX-3000-1001-1002 by K.S. | 171bdcec , 6e3735ff4c7dc899ee98981385f6f3d0
-  - *2nd revision* of **SCPH-102** :uk: - v45, 2000-05-25 redump.org: psone-45e | CEX-3000-1001-1002 by K.S. | 76b880e5 , de93caec13d1a141a40a79f5c86168d6
-  - **SCPH-103** :earth_asia: - v45, 2000-05-25 redump.org: psone-45a | CEX-3000-1001-1002 by K.S. | 171bdcec , 6e3735ff4c7dc899ee98981385f6f3d0
+  - **SCPH-100** :jp: - v43, 2000-03-11 | *psone-43j* | CEX-3000-1001-1002 by K.S. | f2af798b , 8abc1b549a4a80954addc48ef02c4521
+  - **SCPH-101** :us: - v44, 2000-03-24 | *psone-44a* | CEX-3000-1001-1002 by K.S. | 6a0e22a0 , 9a09ab7e49b422c007e6d54d7c49b965
+  - **SCPH-102** :uk: - v44, 2000-03-24 | *psone-44e* | CEX-3000-1001-1002 by K.S. | 0bad7ea9 , b10f5e0e3d9eb60e5159690680b1e774
+  - *2nd revision* of **SCPH-101** :us: - v45, 2000-05-25 | *psone-45a* | CEX-3000-1001-1002 by K.S. | 171bdcec , 6e3735ff4c7dc899ee98981385f6f3d0
+  - *2nd revision* of **SCPH-102** :uk: - v45, 2000-05-25 | *psone-45e* | CEX-3000-1001-1002 by K.S. | 76b880e5 , de93caec13d1a141a40a79f5c86168d6
+  - **SCPH-103** :earth_asia: - v45, 2000-05-25 | *psone-45a* | CEX-3000-1001-1002 by K.S. | 171bdcec , 6e3735ff4c7dc899ee98981385f6f3d0
 
 * **SPECIAL**.
-  - **DTL-H2000** - v11, 1994-01-24 | *not preserved* [no CEX code] -  18d0f7d8 , 2118230527a9f51bd9216e32fa912842
+  - **DTL-H2000** - v11, 1994-01-24 | *not preserved* | no CEX code | 18d0f7d8 , 2118230527a9f51bd9216e32fa912842
     - DTL-H2000 is a special developer board for PC, not a separate console, but it has a BIOS. as for 2018-OCT-29, redump.org didn't preserve it.
-  - **Playstation 2** - v50, 2000-10-27 | *not preserved* [PS compatible mode by M.T] -  0dcce9d7 , d8f485717a5237285e4d7c5f881b7f32
+  - **Playstation 2** - v50, 2000-10-27 | *not preserved* | PS compatible mode by M.T | 0dcce9d7 , d8f485717a5237285e4d7c5f881b7f32
     - Playstation 2 has a PSX emulation mode for backward compatibility and so it has a separate BIOS to run PSX games. as for 2018-OCT-29, redump.org didn't preserve it.
