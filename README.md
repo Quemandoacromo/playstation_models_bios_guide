@@ -79,9 +79,9 @@
   - **SCPH-103** :earth_asia: - Southeast Asian SCPH-100. sources says it has better BIOS (4.6) than American analogue (4.4 / 4.5) - it is false, its BIOS matches 2nd revision of SCPH-102.
   - **SCPH-102A** / **SCPH-102B** / **SCPH-102C** :exclamation: - people believe that there are three different versions of SCPH-102 differ on their hardware or BIOS. in fact all those versions differ in packages and supplies only: SCPH-102A has AV cable & AC adapter, SCPH-102B has RFU adapter & AC adapter, SCPH-102C has AV cable, AC adapter and Euro-Scart-adapter. Also manuals for SCPH-102A/SCPH-102B are English only, while SCPH-102C is present in six European languages.
 
-## BIOS guide
-**Explanation:**
-**NAME of console** - version, date | *redump.org name* | CEX code | CRC , MD5
+## BIOS guide (long)
+**(legend)**
+**console names** - version, date | *redump.org name* | CEX code | CRC , MD5
 
 * **FIRST GENERATION**. motherboard PU-7.
   - **SCPH-1000** :jp: - v10, 1994-09-22 | *ps-10j* | CEX-1000 KT-3 by S.O. | 3b601fc8 , 239665b1a3dade1b5a52c06338011044
@@ -156,3 +156,34 @@
     - DTL-H2000 is a special developer board for PC, not a separate console, but it has a BIOS. as for 2018-OCT-29, redump.org didn't preserve it.
   - **Playstation 2** - v50, 2000-10-27 | *not preserved* | PS compatible mode by M.T | 0dcce9d7 , d8f485717a5237285e4d7c5f881b7f32
     - Playstation 2 has a PSX emulation mode for backward compatibility and so it has a separate BIOS to run PSX games. as for 2018-OCT-29, redump.org didn't preserve it.
+    
+## BIOS guide (short)
+**(legend)**
+date [*redump.org name*] **console names** [CEX code] - CRC , MD5
+
+* :question: 1994-01-24 [*ps-11 notPreserved*] **DTL-H2000** [noCEX] - CRC 18d0f7d8 , MD5 2118230527a9f51bd9216e32fa912842
+* :jp: 1994-09-22 [*ps-10j*] **SCPH-1000 - DTL-H1000** [CEX-1000 KT-3 by S.O.] - CRC 3b601fc8 , MD5 239665b1a3dade1b5a52c06338011044
+* :jp: 1995-01-22 [*ps-11j*] **SCPH-3000 - DTL-H1000H** [CEX-1000 KT-3 by S.O.] - CRC 3539def6 , MD5 849515939161e62f6b866f6853006780
+* :us: 1995-05-07 [*ps-20a*] **SCPH-1001 - DTL-H1001 - DTL-H1001H** [CEX-1000 KT-3 by S.O.] - CRC 55847d8c , MD5 dc2b9bf8da62ec93e868cfd29f0d067d
+* :uk: 1995-05-10 [*ps-20e*] **SCPH-1002 - DTL-H1002** [CEX-1000 KT-3 by S.O.] - CRC 9bb87c4b , MD5 54847e693405ffeb0359c6287434cbef
+* :us: 1995-07-17 [*ps-21a*] **SCPH-1001 - DTL-H1101** [CEX-3000 KT-3 by K.S.] - CRC aff00f2f , MD5 da27e8b6dab242d8f91a9b25d80c63b8
+* :uk: 1995-07-17 [*ps-21e*] **SCPH-1002 - DTL-H1102** [CEX-3000 KT-3 by K.S.] - CRC 86c30531 , MD5 417b34706319da7cf001e76e40136c23
+* :jp: 1995-07-17 [*ps-21j*] **SCPH-3500** [CEX-3000 KT-3 by K.S.] - CRC bc190209 , MD5 cba733ceeff5aef5c32254f1d617fa62
+* :us: 1995-12-04 [*ps-22a*] **SCPH-1001 - SCPH-5003 - DTL-H1201 - DTL-H3001** [CEX-3000-1001-1002 by K.S.] - CRC 37157331 , MD5 924e392ed05558ffdb115408c263dccf
+* :uk: 1995-12-04 [*ps-22e*] **SCPH-1002 - DTL-H1202 - DTL-H3002** [CEX-3000-1001-1002 by K.S.] - CRC 1e26792f , MD5 e2110b8a2b97a8e0b857a45d32f7e187
+* :jp: 1996-03-06 [*ps-22d*] **DTL-H1100** [CEX-3000-1001-1002 by K.S.] - CRC decb22f5 MD5 ca5cfc321f916756e3f0effbfaeba13b
+* :jp: 1995-12-04 [*ps-22j*] **SCPH-5000 - DTL-H1200 - DTL-H3000** [CEX-3000-1001-1002 by K.S.] - CRC 24fc7e17 , MD5 57a06303dfa9cf9351222dfcbb4a29d9
+* :jp: 1995-12-04 [*ps-22j(v)*] **SCPH-5903** [CEX-3000-1001-1002 by K.S.] - CRC 446ec5b2 MD5 81328b966e6dcf7ea1e32e55e1c104bb
+* :us: 1996-11-18 [*ps-30a*] **SCPH-5001 - SCPH-5501 - SCPH-5503 - SCPH-7003** [CEX-3000-1001-1002 by K.S.] - CRC 8d8cb7e4 , MD5 490f666e1afb15b7362b406ed1cea246
+* :uk: 1997-01-06 [*ps-30e*] **SCPH-5502 - SCPH-5552** [CEX-3000-1001-1002 by K.S.] - CRC d786f0b9 , MD5 32736f17079d0b2b7024407c39bd3050
+* :jp: 1996-09-09 [*ps-30j*] **SCPH-5500** [CEX-3000-1001-1002 by K.S.] - CRC ff3eeb8c , MD5 8dd7d5296a650fac7319bce665a6a53c
+* :jp: 1997-08-18 [*ps-40j*] **SCPH-7000 - SCPH-7500 - SCPH-9000** [CEX-7000-7001 by K.S.] - CRC ec541cd0 , MD5 8e4c14f567745eff2f0408c8129f72a6
+* :us: 1997-11-14 [*ps-41a(w)*] **SCPH-7000W** [CEX-3000-1001-1002 by K.S.] - CRC b7c43dad , MD5 b84be139db3ee6cbd075630aa20a6553
+* :us: 1997-12-16 [*ps-41a*] **SCPH-7001 - SCPH-7501 - SCPH-7503 - SCPH-9001 - SCPH-9003 - SCPH-9903** [CEX-3000-1001-1002 by K.S.] - CRC 502224b6 , MD5 1e68c231d0896b7eadcad1d7d8e76129
+* :uk: 1997-12-16 [*ps-41e*] **SCPH-7002 - SCPH-7502 - SCPH-9002** [CEX-3000-1001-1002 by K.S.] - CRC 318178bf , MD5 b9d9a0286c33dc6b7237bb13cd46fdee
+* :jp: 2000-03-11 [*psone-43j*] **SCPH-100** [CEX-3000-1001-1002 by K.S.] - CRC f2af798b , MD5 8abc1b549a4a80954addc48ef02c4521
+* :us: 2000-03-24 [*psone-44a*] **SCPH-101** [CEX-3000-1001-1002 by K.S.] - CRC 6a0e22a0 , MD5 9a09ab7e49b422c007e6d54d7c49b965
+* :uk: 2000-03-24 [*psone-44e*] **SCPH-102** [CEX-3000-1001-1002 by K.S.] - CRC 0bad7ea9 , MD5 b10f5e0e3d9eb60e5159690680b1e774
+* :us: 2000-05-25 [*psone-45a*] **SCPH-101 - SCPH-103** [CEX-3000-1001-1002 by K.S.] - CRC 171bdcec , MD5 6e3735ff4c7dc899ee98981385f6f3d0
+* :uk: 2000-05-25 [*psone-45e*] **SCPH-102** [CEX-3000-1001-1002 by K.S.] - CRC 76b880e5 , MD5 de93caec13d1a141a40a79f5c86168d6
+* :question: 2000-10-27 [*ps2-50j notPreserved*] **SCPH-18000** [PS compatible mode by M.T] - CRC 0dcce9d7 , MD5 d8f485717a5237285e4d7c5f881b7f32
