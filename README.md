@@ -1,3 +1,8 @@
+## models guide
+**SCPH**-series is retail consoles.
+
+**DTL**-series is debug consoles, developer board and Net Yaroze.
+
 * **DEVELOPER ONLY**.
   - **DTL-H2000** - is not a console, but a special "developer board" - an addon developer inserts in his PC to write and debug PS games. it was, essentially, a Playstation bundled in form of PC board with 8 MB instead of 2MB. only licensed developers had access to it. it was released *in January, 1994*, long before any retail Playstation were released
 
@@ -18,7 +23,8 @@
 
 * **THIRD GENERATION**. motherboard PU-8. changes in CPU (on the part of GTE). 
   - **SCPH-3500** :jp: - Japanese version, *released on 28 March 1996*. 
-  - *2nd revision* of **SCPH-1001** :us: / **SCPH-1002** :uk: - Sony released updated versions of SCPH-1001/SCPH-1002 without altering the numeration. people sometimes referring them as SCPH-1001B/SCPH-1002B to tell the difference from the second generation.
+  - *2nd revision* of **SCPH-1001** :us: - Sony released updated versions of SCPH-1001 without altering the numeration. people sometimes referring it as SCPH-1001B to tell the difference from the second generation.
+  - *2nd revision* of **SCPH-1002** :uk: - same as above, people refering it as SCPH-1002B.
   - **DTL-H1100** :jp: - Japanese blue-colored debugger. it has a unique BIOS that is not available on any retail consoles.
   - **DTL-H1101** :us: - North American blue-colored debugger.
   - **DTL-H1102** :uk: - European blue-colored debugger.
@@ -26,8 +32,9 @@
 
 * **FOURTH GENERATION**. motherboard PU-8. Rev. C of GPU (GPU uses SGRAM now).
   - **SCPH-5000** :jp: - Japanese version, *released on 22 June 1996*.
-  - *3rd revision* of **SCPH-1001** :us: / **SCPH-1002** :uk: - Sony revised their SCPH-1001/SCPH-1002, but didn't change the names again. people refer them as SCPH-1001C and SCPH-1002C.
-  - **SCPH-5003**  :earth_asia: - original Southeast Asian console. weirdly, the numeration follows SCPH-5000, but console features the SCPH-1001C's BIOS (in English). people assumed it did not exist, but it is mentioned in a manual for SCPH-103.
+  - *3rd revision* of **SCPH-1001** :us: - Sony revised SCPH-1001 once again without changing the name. people refer it as SCPH-1001C
+  - *3rd revision* of **SCPH-1002** :uk: - same as above, people refering it as SCPH-1002C.
+  - **SCPH-5003** :earth_asia: - original Southeast Asian console. weirdly, the numeration follows SCPH-5000, but console features the SCPH-1001C's BIOS (in English). people assumed it did not exist, but it is mentioned in a manual for SCPH-103.
   - **SCPH-5903** :earth_asia: - special Southeast Asian console with Video CD support. that version has separated japan-based BIOS.
   - **DTL-H1200** :jp: - Japanese green-colored debugger.
   - **DTL-H1201** :us: - North American green-colored debugger.
@@ -67,7 +74,7 @@
   - **SCPH-100** :jp: - Japanese version, *released on 07 July 2000*. 
   - **SCPH-101** :us: - North American SCPH-100, *released on 19 September 2000*. 
   - **SCPH-102** :uk: - European SCPH-100, *released on 29 September 2000*. 
-  - *2nd revision* of **SCPH-101** :us: / **SCPH-102** :uk: - as with SCPH-1001/SCPH-1002 at the beginning of lifespan, Sony released the revised version of console without naming them differently - no hardware difference, just revamped BIOS.
+  - *2nd revision* of **SCPH-101** :us: - Sony released the revised version of console without naming it differently - no hardware difference, just revamped BIOS.
+  - *2nd revision* of **SCPH-102** :uk: - same as above.
   - **SCPH-103** :earth_asia: - Southeast Asian SCPH-100. sources says it has better BIOS (4.6) than American analogue (4.4 / 4.5) - it is false, its BIOS matches 2nd revision of SCPH-102.
   - **SCPH-102A** / **SCPH-102B** / **SCPH-102C** :exclamation: - people believe that there are three different versions of SCPH-102 differ on their hardware or BIOS. in fact all those versions differ in packages and supplies only: SCPH-102A has AV cable & AC adapter, SCPH-102B has RFU adapter & AC adapter, SCPH-102C has AV cable, AC adapter and Euro-Scart-adapter. Also manuals for SCPH-102A/SCPH-102B are English only, while SCPH-102C is present in six European languages.
-
