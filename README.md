@@ -1,3 +1,5 @@
+in russian / по-русски : https://vk.com/@rarestmeow-gaid-po-modelyam-i-bios-psx
+
 ## download
 * **there is no BIOS download link** - it is illegal and violates Sony's copyright.
 * [PSX BIOS DAT-file](/Sony%20-%20PlayStation%20-%20BIOS%20Images%20(2018%2C%20Fixed).dat) (corrected, updated and fixed redump.org [DAT-file](http://redump.org/datfile/psx-bios/))
