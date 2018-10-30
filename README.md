@@ -154,13 +154,13 @@
   - **SCPH-103** :earth_asia: - v45, 2000-05-25 | *psone-45a* | CEX-3000-1001-1002 by K.S. | 171bdcec , 6e3735ff4c7dc899ee98981385f6f3d0
 
 * **SPECIAL**.
-  - **DTL-H2000** - v11, 1994-01-24 | *not preserved* | no CEX code | 18d0f7d8 , 2118230527a9f51bd9216e32fa912842
+  - **DTL-H2000** - v11, 1994-01-24 | *not preserved* | %no CEX code% | 18d0f7d8 , 2118230527a9f51bd9216e32fa912842
     - DTL-H2000 is a special developer board for PC, not a separate console, but it has a BIOS. as for 2018-OCT-29, redump.org didn't preserve it.
   - **Playstation 2** - v50, 2000-10-27 | *not preserved* | PS compatible mode by M.T | 0dcce9d7 , d8f485717a5237285e4d7c5f881b7f32
     - Playstation 2 has a PSX emulation mode for backward compatibility and so it has a separate BIOS to run PSX games. as for 2018-OCT-29, redump.org didn't preserve it.
     
 ## BIOS guide (short)
-**(legend)**: date | *redump.org name* | **console names** | CEX code | CRC , MD5
+**(legend)**: date | *redump.org name* | **console names** | %no CEX code% | CRC , MD5
 
 * :question: 1994-01-24 | *ps-11 notPreserved* | **DTL-H2000** | noCEX | 18d0f7d8 , 2118230527a9f51bd9216e32fa912842
 * :jp: 1994-09-22 | *ps-10j* | **SCPH-1000 - DTL-H1000** | CEX-1000 KT-3 by S.O. | 3b601fc8 , 239665b1a3dade1b5a52c06338011044
