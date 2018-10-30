@@ -2,6 +2,12 @@
 * **there is no BIOS download link** - it is illegal and violates Sony's copyright.
 * [PSX BIOS DAT-file](/Sony%20-%20PlayStation%20-%20BIOS%20Images%20(2018%2C%20Fixed).dat)
 
+## extractions from manuals
+* [from SCPH-100](/pics/from%20SCPH-100.png) - SCPH-1000, SCPH-3000, SCPH-3500, SCPH-5000, SCPH-5500, SCPH-7000, SCPH-7500, SCPH-9000
+* [from SCPH-101](/pics/from%20SCPH-101.png) - SCPH-1001, SCPH-5001, SCPH-5501, SCPH-7001, SCPH-7501, SCPH-9001
+* [from SCPH-102](/pics/from%20SCPH-102.png) - SCPH-1002, SCPH-5502, SCPH-5552, SCPH-7002, SCPH-7502, SCPH-9002
+* [from SCPH-103](/pics/from%20SCPH-103.png) - SCPH-5003, SCPH-5503, SCPH-5903, SCPH-7003, SCPH-7503, SCPH-9003
+
 ## models guide
 * **DEVELOPER ONLY**.
   - **DTL-H2000** - is not a console, but a "developer board" - an addon developer inserts in his PC to write and debug PS games. it was, essentially, a Playstation bundled in form of PC board with 8 MB instead of 2MB. only licensed developers had access to it. it was released *in January, 1994*, long before any retail Playstation were released.
