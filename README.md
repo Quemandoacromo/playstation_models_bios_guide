@@ -1,3 +1,6 @@
+## PSX BIOS download link
+**there is bo BIOS download link**. it is illegal and violates Sony's copyright. here you can download DAT-file to verify correctness of dumped/downloaded BIOS.
+
 ## models guide
 **SCPH**-series is retail consoles.
 
